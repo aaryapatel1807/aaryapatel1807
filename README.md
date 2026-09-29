@@ -57,10 +57,8 @@ CSE undergrad @ ITM SLS Baroda University ('28) from Vadodara, India. I build fu
 
 ## 📊 Stats
 
-![Aarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryapatel1807&show_icons=true&theme=tokyonight)
+![Aarya's GitHub stats](./profile/stats.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=aaryapatel1807&theme=tokyonight&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryapatel1807&layout=compact&theme=tokyonight)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=aaryapatel1807&theme=tokyonight)
+![Top Languages](./profile/top-langs.svg)
