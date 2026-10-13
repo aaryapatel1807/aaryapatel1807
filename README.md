@@ -55,6 +55,16 @@ CSE undergrad @ ITM SLS Baroda University ('28) from Vadodara, India. I build fu
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="prisma" width="45" height="45" />](https://www.prisma.io/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="supabase" width="45" height="45" />](https://supabase.com/)
 
+## 🚀 Featured Projects
+
+- **Elysia** — JARVIS-inspired AI desktop assistant (Electron + FastAPI, voice-first)
+- **NutriAI** — AI nutrition platform with food detection and smart meal planning
+- **Detective Duo** — co-op detective game hub: 36 games plus a full noir evidence-board mystery mode
+- **LearnFlow** — MERN learning app with roadmaps, books, quizzes and flashcards
+- **Genesis** — AI world-explainer that maps how events connect (SerpApi Hackathon 2026)
+- **Local Finder** — nearby-places search on real Google Maps data (SerpApi Hackathon 2026)
+- **PathForge** — AI learning-roadmap SaaS
+
 ## 📊 Stats
 
 ![Aarya's GitHub stats](./profile/stats.svg)
