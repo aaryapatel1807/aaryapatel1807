@@ -1,6 +1,6 @@
 ## Hi, I'm Aarya Patel 👋
 
-CSE undergrad @ ITM SLS Baroda University ('28) from Vadodara, India. I build full-stack AI apps — **JANMIND**, **Elysia**, **NutriAI**, **PathForge**. Seeking internships in AI/ML & full-stack development.
+CSE undergrad @ ITM SLS Baroda University ('28) from Vadodara, India. I build full-stack AI apps — **JANMIND**, **Elysia**, **NutriAI**, **PathForge**, **Detective Duo**, **LearnFlow**. Seeking internships in AI/ML & full-stack development.
 
 ## About Me
 
